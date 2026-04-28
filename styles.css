@@ -1104,6 +1104,10 @@ align-items: center;
 
 }
 
+body {
+overflow: hidden;
+}
+
 
 .grids {
 
@@ -1223,6 +1227,10 @@ grid-template-columns: 1fr 1fr
     
 }
 
+body {
+overflow: hidden;
+}
+
 .store  {
     display: flex;
     flex-direction: column-reverse;
@@ -1248,7 +1256,9 @@ grid-template-columns: 1fr 1fr
     margin-bottom: 20px;
 }
 
-
+body {
+overflow: hidden;
+}
 
 
 }
