@@ -628,7 +628,7 @@ padding-left: 30px;
   }
 
   .floa {
- width: 300px; float: left; margin-right: 25px; margin-bottom: 25px;    aspect-ratio: 16/9;
+ width: 200px; float: left; margin-right: 25px; margin-bottom: 25px;    aspect-ratio: 16/9;
     object-fit: cover;
   }
 
