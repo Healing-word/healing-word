@@ -1183,11 +1183,14 @@ max-width: 600px;
 }
 
   .floa {
- width: 300px;
+ width: 200px;
  margin-bottom: 20px;
   }
 
+.menubars {
 
+    display: none;
+   }
 
   .contact-us {
     grid-template-columns: 1fr;
@@ -1239,7 +1242,10 @@ grid-template-columns: 1fr 1fr
     width: 100%;
 }
 
+html {
 
+    width:100%;
+   }
 
     
 }
