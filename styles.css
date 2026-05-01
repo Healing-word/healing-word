@@ -1042,7 +1042,7 @@ align-items: center;
     background-color: rgb(243, 238, 238);
     position: absolute;
     top: 20px;
-    right: -1000px;
+    left: -1000px;
     width: 70%;
     height: 100vh;
     justify-content: flex-start;
@@ -1053,7 +1053,7 @@ align-items: center;
    }
 
    .menu-par:checked ~ .menu {
-    right: 0;
+    left: 0;
    }
 
    .menu li {
@@ -1189,7 +1189,7 @@ max-width: 600px;
 
 .menubars {
 
-    display: none;
+    display: block;
    }
 
   .contact-us {
@@ -1254,7 +1254,7 @@ html {
 
 
 .floa {
- width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;    aspect-ratio: 16/9;
+ width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
     object-fit: cover;
   }
 }
