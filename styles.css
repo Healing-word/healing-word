@@ -132,9 +132,13 @@ display: none;
 .menubars h1 {
 
     color: rgb(126, 124, 124);
-    font-size: 20px;
+    font-size: 40px;
+    background-color: white;
+    
     
 }
+
+
 
 .bars h1 {
     text-align: start;
