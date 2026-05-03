@@ -132,10 +132,11 @@ display: none;
 .menubars h1 {
 
     color: rgb(126, 124, 124);
-    font-size: 40px;
+    font-size: 35px;
     background-color: white;
     border-radius: 50%;
-    padding: 3px;
+    height: 100px;
+    width: 100px;
     
 }
 
@@ -449,10 +450,11 @@ footer div {
     display: inline;
     align-items: center;
     justify-content: center;
-    background-color: rgb(221, 156, 156);
-    color: white;
-    border-top-left-radius : 5PX;
-    border-top-right-radius : 5PX;
+    background-color: rgb(223, 219, 219);
+    color: rgb(126, 124, 124);
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
     text-decoration: none;
     transition: 0.2s ease-out;
     padding: 2px;
