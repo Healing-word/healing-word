@@ -134,7 +134,7 @@ display: none;
 .menubars div {
 
     color: rgb(126, 124, 124);
-    font-size: 35px;
+    font-size: 25px;
     background-color: white;
     border-radius: 50%;
     height: 50px;
@@ -449,7 +449,7 @@ footer div {
     bottom: 0.9rem;
     right: 0.5rem;
     font-size: 30px;
-    display: inline;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     background-color: rgb(223, 219, 219);
