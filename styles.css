@@ -1045,7 +1045,7 @@ align-items: center;
     flex-direction: column;
     background-color: rgb(243, 238, 238);
     position: absolute;
-    top: 20px;
+    top: 0;
     left: -1000px;
     width: 70%;
     height: 100vh;
