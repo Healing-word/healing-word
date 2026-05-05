@@ -1109,6 +1109,12 @@ align-items: center;
 }
 
 
+.floa {
+ width: 250px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
+    object-fit: cover;
+  }
+
+
 
 .grids {
 
