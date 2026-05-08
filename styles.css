@@ -1079,6 +1079,10 @@ align-items: center;
 }
 
  
+.floa {
+ width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
+    object-fit: cover;
+  }
 
      
 
@@ -1104,10 +1108,9 @@ align-items: center;
 
 
 .floa {
- width: 200px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
+ width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
     object-fit: cover;
   }
-
 
 
 .grids {
@@ -1242,7 +1245,10 @@ html {
 
     width:100%;
    }
-
+.floa {
+ width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
+    object-fit: cover;
+  }
     
 }
 
