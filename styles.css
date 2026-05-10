@@ -1125,7 +1125,7 @@ align-items: center;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 17px;
+    gap: 10px;
     width: 100%
     
    }
@@ -1212,7 +1212,7 @@ align-items: center;
   .float {
 display: grid;
 grid-template-columns: 1fr 1fr;
-gap: 17px; 
+gap: 10px; 
 }
 
 .menubars {
@@ -1278,7 +1278,7 @@ width:100%;
 .float {
 display: grid;
 grid-template-columns: 1fr;
-gap: 17px;
+gap: 10px;
    }
 
 
