@@ -1025,6 +1025,15 @@ align-items: center;
     
    }
 
+.float {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 17px;
+    
+   }
+    
+
 
    .politics {
 
@@ -1106,6 +1115,13 @@ align-items: center;
 
 }
 
+.float {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 17px;
+    
+   }
 
 .floa {
  width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
@@ -1184,7 +1200,13 @@ max-width: 600px;
     align-items: center;
 }
 
-  
+  .float {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 17px;
+    
+   }
 
 .menubars {
 
