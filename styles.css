@@ -1293,8 +1293,13 @@ html {
 
 
 .floa {
- width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
-    object-fit: cover;
+ width: 150px; 
+float: left; 
+margin-right: 15px; 
+margin-bottom: 25px;  
+margin-left: 10px;          
+aspect-ratio: 16/11;
+object-fit: cover;
   }
 
 .float {
@@ -1302,6 +1307,6 @@ html {
     display: grid;
     grid-template-columns: 1fr;
     gap: 17px;
-    margin-left: 10px;
+    
    }
 }
