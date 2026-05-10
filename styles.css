@@ -1202,89 +1202,92 @@ max-width: 600px;
 
 
 @media only screen and (max-width: 675px) {
+
+
 .menu {
-    width: 100%;
-    align-items: center;
+width: 100%;
+align-items: center;
 }
 
   .float {
-
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 17px;
-    
-   }
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 17px; 
+}
 
 .menubars {
-
-    display: block;
-   }
-
-  .contact-us {
-    grid-template-columns: 1fr;
+display: block;
 }
-.body {
 
+
+.contact-us {
+grid-template-columns: 1fr;
+}
+
+.body {
 display: grid;
 grid-template-columns: 1fr;
 }
 
 .politi {
-    display: grid;
-    grid-template-columns: 1fr;
-    column-gap: 20px;
-    row-gap: 20px;
-   
+display: grid;
+grid-template-columns: 1fr;
+column-gap: 20px;
+row-gap: 20px;  
 }
 
 
 .op {
-
 display: grid;
 grid-template-columns: 1fr 1fr
 }
-.footer-info div {
 
-    display: grid;
-    grid-template-columns: 1fr
+
+.footer-info div {
+display: grid;
+grid-template-columns: 1fr
    }
 
 
 .size {
-    display: none;
-    
+display: none;
 }
 
 
 
 .store  {
-    display: flex;
-    flex-direction: column-reverse;
-    
+display: flex;
+flex-direction: column-reverse;   
 }
+
 
 .sidebar {
-
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    width: 100%;
+display: grid;
+grid-template-columns: 1fr 1fr;
+width: 100%;
 }
 
+
+
 html {
-
-    width:100%;
+width:100%;
    }
+
+
+
 .float {
-
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 17px;
-    
+display: grid;
+grid-template-columns: 1fr;
+gap: 17px;
    }
+
 
 .floa {
- width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
-    object-fit: cover;
+width: 150px; 
+float: left; 
+margin-right: 15px; 
+margin-bottom: 25px;             aspect-ratio: 16/11;
+object-fit: cover;
   }
     
 }
@@ -1293,20 +1296,20 @@ html {
 
 
 .floa {
- width: 150px; 
+width: 150px; 
 float: left; 
 margin-right: 15px; 
 margin-bottom: 25px;  
-margin-left: 10px;          
+margin-left: 15px;          
 aspect-ratio: 16/11;
 object-fit: cover;
   }
 
 .float {
-
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 17px;
+display: grid;
+grid-template-columns: 1fr;
+gap: 17px;
     
    }
+
 }
