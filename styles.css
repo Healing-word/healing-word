@@ -1302,6 +1302,6 @@ html {
     display: grid;
     grid-template-columns: 1fr;
     gap: 17px;
-    
+    margin-left: 10px;
    }
 }
