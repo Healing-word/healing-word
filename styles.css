@@ -1126,6 +1126,7 @@ align-items: center;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 17px;
+    width: 100%
     
    }
 
@@ -1273,6 +1274,14 @@ html {
 
     width:100%;
    }
+.float {
+
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 17px;
+    
+   }
+
 .floa {
  width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
     object-fit: cover;
@@ -1287,4 +1296,12 @@ html {
  width: 150px; float: left; margin-right: 15px; margin-bottom: 25px;             aspect-ratio: 16/11;
     object-fit: cover;
   }
+
+.float {
+
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 17px;
+    
+   }
 }
