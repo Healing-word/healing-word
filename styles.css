@@ -1034,11 +1034,11 @@ align-items: center;
 .float {
 
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 10px;
+    width: 100%
     
    }
-    
 
 
    .politics {
@@ -1095,10 +1095,13 @@ align-items: center;
 
  
 .floa {
- width:200px; float: left; margin-right: 5px; margin-bottom: 25px;             aspect-ratio: 16/11;
-    object-fit: cover;
+ width: 250px; 
+float: left; 
+margin-right: 15px; 
+margin-left: 15px;
+margin-bottom: 25px;             aspect-ratio: 16/11;
+object-fit: cover;
   }
-
      
 
    }
