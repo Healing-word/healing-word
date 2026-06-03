@@ -457,15 +457,15 @@ footer div {
     position: fixed;
     bottom: 0.9rem;
     right: 0.5rem;
-    font-size: 30px;
+    font-size: 25px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     background-color: rgb(223, 219, 219);
     color: rgb(126, 124, 124);
     border-radius: 50%;
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     text-decoration: none;
     transition: 0.2s ease-out;
     padding: 2px;
