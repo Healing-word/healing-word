@@ -34,7 +34,7 @@ html {
 }
 
 body {
-    font-family: "sans-serif", DM sans, ;
+    font-family: "DM sans",sans-serif ;
     color: var(--primary);
     overflow-x: hidden;
 }
