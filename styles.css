@@ -34,7 +34,7 @@ html {
 }
 
 body {
-    font-family: "DM sans",sans-serif, ;
+    font-family: "DM sans",sans-serif ;
     color: var(--primary);
     overflow-x: hidden;
 }
@@ -1141,12 +1141,12 @@ object-fit: cover;
     display: grid;
     grid-template-columns: 1fr;
     gap: 10px;
-    width: 70%
+    width: 100%
     
    }
 
 .floa {
- width: 150px; 
+ width: 250px; 
 float: left; 
 margin-right: 15px; 
 margin-left: 15px;
