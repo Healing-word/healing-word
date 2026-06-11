@@ -2,64 +2,47 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Forum&display=swap');
 
 
-* {
+*   {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     overflow-x: clip;
-}
-:root {
-    --primary : #2c2c2b;
-    --secondary : #ffd936;
-    --white : #efefef;
+    }
 
-    --woocommerce: #7f54b3;
-    --wc-green: #7ad03a;
-    --wc-red: #a00;
-    --wc-orange: #ffba00;
-    --wc-blue: #2ea2cc;
-    --wc-primary: #7f54b3;
-    --wc-primary-text: #fff;
-    --wc-secondary: #e9e6ed;
-    --wc-secondary-text: #515151;
-    --wc-highlight: #252517;
-    --wc-highligh-text: #fff;
-    --wc-content-bg: #fff;
-    --wc-subtext: #767676;
-}
 
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
-}
+     }
+
 
 body {
     font-family: "DM sans", sans-serif;
-    color: var(--primary);
+    color: #2c2c2b;
     overflow-x: hidden;
-}
+     }
 
-a {
+
+a    {
     text-decoration: none;
     color: #494949;
-}
+     }
 
 
 .container {
-   max-width: 100%;
-   margin: auto;
-}
+     max-width: 100%;
+     margin: auto;
+      }
 
 
-.header {
+.header {
+     width: 100%;
+     margin-bottom: 20px;
+     position: relative;
+     right:0;
+     top: 0;
+     }
 
-    width: 100%;
-    margin-bottom: 20px;
-    position: relative;
-    right:0;
-    top: 0;
-
-}
 
 nav {
     display: flex;
@@ -71,14 +54,13 @@ nav {
     width: 100%;
     padding-bottom: 14px;
     padding-top: 14px;
-}
+    }
 
 .menus {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-   
-}
+    justify-content: space-between;  
+      }
 
 .menus li a {
      margin-right: 40px;
@@ -1009,8 +991,7 @@ align-items: center;
 
 
    
-
-
+
  @media only screen and (max-width: 902px) {
    
     .menus{
