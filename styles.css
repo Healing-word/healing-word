@@ -1141,12 +1141,12 @@ object-fit: cover;
     display: grid;
     grid-template-columns: 1fr;
     gap: 10px;
-    width: 100%
+    width: 70%
     
    }
 
 .floa {
- width: 250px; 
+ width: 150px; 
 float: left; 
 margin-right: 15px; 
 margin-left: 15px;
