@@ -899,14 +899,14 @@ padding-left: 30px;
    }
 
    .inform {
-    font-family: 'Times New Roman', Times, serif;
+    font-famil: 'Times New Roman', Times, serif;
     flex: 1;
    }
 
    .profi img {
 
    width: 100%;
-   max-width: 100px;
+   max-width: 70px;
    object-fit: cover;
    vertical-align: top;
    border-radius: 5px;
