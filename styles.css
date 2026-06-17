@@ -48,7 +48,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(223, 219, 219);
+    background-color: rgb(243, 238, 238);
     padding-right: 5px;
     padding-left: 15px;
     width: 100%;
@@ -118,7 +118,7 @@ display: none;
 
     color: rgb(126, 124, 124);
     font-size: 20px;
-    background-color: rgb(101, 200, 218);
+    background-color: white;
     border-radius: 50%;
     height: 40px;
     width: 40px;
