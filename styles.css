@@ -1288,7 +1288,7 @@ width: 150px;
 float: left; 
 margin-right: 15px; 
 margin-left: 15px; 
-margin-bottom: 25px;             aspect-ratio: 9/16;
+margin-bottom: 25px;             aspect-ratio: 9/14;
 object-fit: cover;
   }
     
@@ -1303,7 +1303,7 @@ float: left;
 margin-right: 15px; 
 margin-bottom: 25px;  
 margin-left: 15px;          
-aspect-ratio: 9/16;
+aspect-ratio: 9/14;
 object-fit: cover;
   }
 
