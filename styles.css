@@ -890,7 +890,7 @@ padding-left: 30px;
     justify-content: space-around;
     gap: 1rem;
     width: 100%;
-    max-width: 400px;
+    max-width:px;
     background-color:rgb(243, 238, 238);
     padding-top: 15px;
     padding-bottom: 15px;
@@ -1128,7 +1128,7 @@ object-fit: cover;
    }
 
 .floa {
- width: 250px; 
+ width: 150px; 
 float: left; 
 margin-right: 15px; 
 margin-left: 15px;
