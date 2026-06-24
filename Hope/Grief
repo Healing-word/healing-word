@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Ugly day</title>
+    <title>Death Man in his Grave | Kuany Dut | Fiction</title>
+
+
     <link href="https://fonts.googleapis.com/css2?family=Material+Icons"
       rel="stylesheet">
     <link rel="stylesheet" href="./styles.css">
@@ -13,11 +15,14 @@
 </head>
 <body>
   
-  <section class="header">
+
+  <div class="header">
     
      <nav>
       <a href="index.html"><img class="log" src="pictures/heals.JPG"></a>
       <ul class="menus">
+
+
           <li><a href="index.html">Home</a></li>
           <li><a href="#">About us</a></li>
           <li><a href="issue.html">Issue</a></li>
@@ -32,7 +37,7 @@
          <div >
            <h1>≡</h1>
          </div>
-         <h1>Menu</h1>
+         
         </label>
 
         
@@ -45,7 +50,7 @@
          </label>
          
           <li><a href="index.html"><h3>Home</h3><hr></a></li>
-          <li><a href="#"><h3>About us</h3><hr></a></li>
+          <li><a href="about.html"><h3>About us</h3><hr></a></li>
           <li><a href="issue.html"><h3>Issue</h3><hr></a></li>
           <li><a href="submit.html"><h3>Submit</h3><hr></a></li>
           
@@ -54,115 +59,134 @@
          
         
         </ul>
-    
+
 
       </div>
     
+
      </nav>
+<hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+  </div>
 
-  </section>
 
-
-  <section>
-<h2>Volume 1(2026), Issue 1</h2>
-<br>
-<h1>Grief</h1>
-
-  </section>
-  
+ 
 
 <section class="body">
 
+
   <div class="sample">
+  
+
+    <h3> <span style="color: rgb(101, 200, 218);">FICTION</span> </h3>
+   
+     
+    <h2>Dead Man in his Grave | Kuany  Dut</h2> 
+      
     
-    <p>Poam</p>
-    <h3>Dead man in his Grave</h3>
-    <p>By Kuany Dut</p>
-    <h4> 12 July 2026 </h4>
-    <img src="pictures/house.png">
-    <p></p>
-    <p></p>
-<p>I don’t know why </p>
-<p>You really longing </p>
-<p>To die</p>
-<p>My darling brother.</p>
 <br>
-<p>But for my sake </p>
-<p>Please, don’t die.</p>
-<p>Is it because you are</p>
-<p>Tire of life,</p>
-<br>
-<p>That is why you  </p>
-<p>want to die?</p>
-<p>please don’t die</p>
+    <h3> <span style="color: grey;">5 April 2026</span> </h3>
 
     
-  </div>
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+<br>
+    <img src="images/kuan.jpg">
+    
+    <br>
+    <br> 
+    <br>
+
+<div style="font-size: 18px; line-height:  1.7; color: #494949;">
+
+<p>I don’t know why I'm always complaining about life yet life itself is useless.</p>
+<br>
+
+<p>"You really longing die?" asked one of my friend one day when I was holding a Long and hard rope. l keep quiet.</p>
+<br>
+
+<p>"Please, don’t die for my sake" he added, taking the rope from my hands. He let me sit down on the grass, and sat besides me.</p>
+<br>
+
+<p>"I don’t know whyYou really longing 
+to die my darling brother." he said.  "But for my sake, please, don’t die."</p>
+<br>
+<p>He huge me and hold me tight on his chest. I wish he would never let me go again.</p>
+
+<br>
+<p>I don’t know why I'm always complaining about life yet life itself is useless.</p>
+<br>
+
+<p>"You really longing die?" asked one of my friend one day when I was holding a Long and hard rope. l keep quiet.</p>
+<br>
+
+<p>"Please, don’t die for my sake" he added, taking the rope from my hands. He let me sit down on the grass, and sat besides me.</p>
+<br>
+
+<p>"I don’t know whyYou really longing 
+to die my darling brother." he said.  "But for my sake, please, don’t die."</p>
+<br>
+<p>He huge me and hold me tight on his chest. I wish he would never let me go again.</p>
+</div>
+
+
+
+
+ </div>
 
  </section>
 
- <section>
-
-  <h3>About the author</h3>
-
- <div class="prof-infor">
-
-<div class="profi">
-<img src="pictures/myprofile.jpg" alt="">
-</div>
-
-<div class="inform">
-
-  <h1>Kuany Dut</h1>
-  <p>Kuany Dut (Michael Kuany Dut Kou) is a poet, fiction and non-fiction writer in south sudan with much experience in writing. Beside writing, he graduated with bachelor degree in Economic at Catholic university of East Africa. He is now pursueing master in business admnistration at Juba university. </p>
-
-
-</div>
-
-
-<div class="prof-infor">
-
-<div class="profi">
+<section>
+<br>
+<hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+<br>
+<h2>Share this: </h2>
+<br>
 <ul class="social-media">
       
-      
+      <li><div style="width: 10px;"></div></li>
       <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
       <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
-      <li><a href=""><img src="pictures/icons8-youtube-48.png" alt=""></a></li>
+      
       <li><a href=""><img src="pictures/wasap.PNG" alt=""></a></li>
       <i class="fa-brands fa-facebook-f"></i>
       
     </ul>
-</div>
-
-<div class="inform">
-
-  <p>Activism</p>
-  <p>kuany dut</p>
-  <p>social commentary</p>
-  <p>sociopolitical</p>
-  <p>south sudan</p>
-
-
-
-</div>
-
- </div>
-
- 
+<br>
+<!--
+<h3> <a href="issue.html">#Poetry</a> <a href="issue.html"> #Kuany Dut</a> <a href="issue.html"> #South Sudan</a> <a href="issue.html"> #Hope die</a> <a href="issue.html"> #grief</a> <a href="issue.html"> #Docummentary</a>
+</h3>
+-->
+<br>
+<hr style="border: none; height: 1px; background-color: rgb(243, 238, 238);">
 
  </section>
 
- 
-<div class="bor"></div>
+ <section>
+<br>
+<h2>About the Author</h2>
+<br>
+ <div class="prof-infor">
+
+<div class="profi">
+<img src="images/koko.jpg" alt="">
+</div>
+
+
+<div class="inform">
+
+  <h3>Kuany Dut</h3>
+  <p style="font-size: 17.5px; line-height:  1.7;">Kuany Dut (Michael Kuany Dut Kou) is a poet, fiction and non-fiction writer in south sudan with much experience in writing. Beside writing, he graduated with bachelor degree in Economic at Catholic university of East Africa. He is now pursueing master in business admnistration at Juba university. </p>
+
+
+</div>
+
+
+ </section>
+<br>
 
 <br>
-<br>
-<br>
-<section> <div style="border-bottom: 5px solid rgb(101, 200, 218); display: inline-block; ">
-    <h1>Related Posts</h1> 
-    
- </div>
+<section> 
+   <h1>Related Post</h1> 
+    
   <br>
   <br>
 </section>
@@ -173,94 +197,86 @@
   <section class="float">
     
 
-     <div >
+<div >
 
-     <a href="grief3.html"><img  src="pictures/bird.jpg" alt="" class="floa" ></a> 
+     <a href="grief3.html"><img  src="images/kuan.jpg" alt="" class="floa" ></a> 
 
-      <div style="max-width: 350px;">
-      <p>June 2, 2025</p>
-       <h3>
-       Unforgivable sin
-       </h3>  
-       <p> By Philip Lueth Mark</p>
+      <div>
+   <p> <span style="color: rgb(101, 200, 218);">POETRY</span> </p>
+  
        
+       <h3><a href="hope/grief.html"> 
+       Poverty at Ruin | Philip Lucth Mark | Poetry 
+       </a>
+       </h3>  
      
 
       </div>
 
     </div>
 
+  
+
+   <br>
+
      <div >
 
-      <a href="grief2.html"><img  src="pictures/house.png" alt="" class="floa" ></a>
+      <a href="grief2.html"><img  src="images/koko.jpg" alt="" class="floa" ></a>
 
-      <div style="max-width: 350px;" >
-      <p>June 2, 2025</p>
-       <h3>
-       the thing
+      <div>
+    <p> <span style="color: rgb(101, 200, 218);">ESSAY</span> </p>
+       
+       <h3><a href="grief2.html"> 
+       The thing | Peter Lomu kenyi | Short story 
+       </a>
        </h3>  
-       <p> By Peter Lomu kenyi </p>
-       
-       
-    
-
-      </div>
-
-    </div>
-
-     <div >
-
-      <a href="grief2.html"><img  src="pictures/bird.jpg" alt="" class="floa" ></a>
-
-      <div style="max-width: 350px;" >
-      <p>June 2, 2025</p>
-       <h3>
-       povery at ruined
-       </h3>
-       <p> By Peter Lomu kenyi</p>
-       
 
 
       </div>
 
     </div>
 
-     <div >
 
-      <a href="grief2.html"><img  src="pictures/child.png" alt="" class="floa" ></a>
+    <br>
 
-      <div style="max-width: 350px;" >
-      <p>June 2, 2025</p>
-       <h3>
-       we are at risk
+
+<div >
+
+     <a href="grief3.html"><img  src="images/kuan.jpg" alt="" class="floa" ></a> 
+
+      <div>
+   <p> <span style="color: rgb(101, 200, 218);">POETRY</span> </p>
+  
+       
+       <h3><a href="grief2.html"> 
+       Poverty at Ruin | Philip Lucth Mark | Poetry 
+       </a>
        </h3>  
-       <p> By Peter Lomu</p>
-       
-       
-    
+     
 
       </div>
 
     </div>
 
+
+   <br>
 
     
   </section>
-  
 
 <br>
-<br>
+
 
 
 
  
- <br>
- <br>
-
-<section> <div style="border-bottom: 5px solid rgb(101, 200, 218); display: inline-block; ">
-    <h2>Must Read Issues</h2> 
+ 
+ 
+ 
+<section> 
+    <h2>Recommended for you</2> 
     
- </div>
+ 
   <br>
   <br>
 </section>
@@ -268,43 +284,54 @@
   <section class="float">
     
 
-    
-    <div>
+     <div >
 
-      <a href="grief2.html"><img  src="pictures/child.png" alt="" class="floa" ></a>
+     <a href="grief3.html"><img  src="images/kuan.jpg" alt="" class="floa" ></a> 
 
-      <div style="max-width: 400px;">
-        <p>June 2, 2025</p> 
-      <h3>
-       Home gave us Blood
+      <div>
+      <p><span style="color: rgb(101, 200, 218);">FICTION</span> </p>
+       
+       <h3><a href="grief2.html"> 
+       Poverty at Ruin | Philip Lucth Mark | Poetry 
+       </a>
        </h3>  
-       <p> By Peter Lomu</p>
-       <p>Poetry</p>
+     
+
       </div>
 
     </div>
 
+
+   <br>
 
      <div >
 
-      <a href="grief2.html"><img  src="pictures/bird.jpg" alt="" class="floa" ></a>
+      <a href="grief2.html"><img  src="images/koko.jpg" alt="" class="floa" ></a>
 
-      <div style="max-width: 350px;">
-      <p>June 2, 2025</p>
-       <h3>
-       Unforgivable sin
+      <div>
+      <p><span style="color: rgb(101, 200, 218);">POETRY</span> </p>
+       
+       <h3><a href="grief2.html"> 
+       The thing | Peter Lomu kenyi | Essay 
+       </a>
        </h3>  
-       <p> By Philip Lueth Mark</p>
+       
+
 
       </div>
 
     </div>
 
 
-    
+
+    <br>
+
+
   </section>
+
 <br>
-<br>
+
+
 
     
     
@@ -364,7 +391,7 @@
 
    </form>
 
-   <br>
+   
   
 
 
@@ -383,7 +410,7 @@
     
   
           <li><a href="index.html"><h3>Home</h3></a></li>
-          <li><a href="#"><h3>About us</h3></a></li>
+          <li><a href="about.html"><h3>About us</h3></a></li>
           <li><a href="issue.html"><h3>Issue</h3></a></li>
           <li><a href="submit.html"><h3>Submit</h3></a></li>
 
