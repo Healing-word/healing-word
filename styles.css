@@ -496,7 +496,7 @@ footer p {
 .social-media {
 
     display: flex;
-    padding-right: 17px;
+    gap: 10px;
     padding-left: 0;
     justify-content: start;
     align-items: start;
