@@ -215,7 +215,7 @@ padding: 10px 0;
     object-fit: cover;
 }
 
-.sample h1, h3 {
+.sample h1, h3, p {
 
     margin-bottom: 10px;
 }
