@@ -1097,7 +1097,7 @@ align-items: center;
 float: left; 
 margin-right: 15px; 
 margin-left: 15px;
-margin-bottom: 25px;             aspect-ratio: 7/11;
+margin-bottom: 25px;             aspect-ratio: 7/7;
 object-fit: cover;
 
   }
@@ -1137,7 +1137,7 @@ object-fit: cover;
 float: left; 
 margin-right: 15px; 
 margin-left: 15px;
-margin-bottom: 25px;             aspect-ratio: 7/11;
+margin-bottom: 25px;             aspect-ratio: 7/7;
 object-fit: cover;
   }
 
@@ -1293,7 +1293,7 @@ width: 150px;
 float: left; 
 margin-right: 15px; 
 margin-left: 15px; 
-margin-bottom: 25px;             aspect-ratio: 7/11;
+margin-bottom: 25px;             aspect-ratio: 7/7;
 object-fit: cover;
   }
     
@@ -1308,7 +1308,7 @@ float: left;
 margin-right: 15px; 
 margin-bottom: 25px;  
 margin-left: 15px;          
-aspect-ratio: 7/11;
+aspect-ratio: 7/7;
 object-fit: cover;
   }
 
