@@ -160,7 +160,7 @@ display: none;
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
-    row-gap: 2px;
+    row-gap: 5px;
    
 }
 
