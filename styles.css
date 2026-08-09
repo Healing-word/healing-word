@@ -17,8 +17,8 @@ html {
 
 
 body {
-    font-family: "Inter", sans-serif;
-    <!-- <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);"> -->
+    <!-- font-family: "Inter", sans-serif; -->
+    font-family: 'spectral', serif;
     color: #2c2c2b;
     overflow-x: hidden;
      }
