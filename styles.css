@@ -27,15 +27,15 @@ body {
 a    {
     text-decoration: none;
     color: #494949;
-    -webkit-tap-highlight-color: transparent;
+   <!-- -webkit-tap-highlight-color: transparent; -->
      }
-
+<!--
 a:focus,
 a:active    {
     background: transparent;
     outline: none;
      }
-
+-->
 p    {
     margin-bottom: 7px;
    
