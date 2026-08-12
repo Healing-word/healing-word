@@ -29,6 +29,12 @@ a    {
     color: #494949;
      }
 
+a:focus,
+a:active    {
+    background: transparent;
+    outline: none;
+     }
+
 p    {
     margin-bottom: 7px;
    
