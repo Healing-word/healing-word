@@ -234,7 +234,7 @@ padding: 10px 0;
 .sample img {
     width: 100%;
     margin-top: 20px;
-    aspect-ratio: 16/14;
+    aspect-ratio: 16/11;
     object-fit: cover;
 }
 
