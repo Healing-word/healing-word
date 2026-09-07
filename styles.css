@@ -292,8 +292,10 @@ gap: 30px;
 
 
 .informss {
-    background-color: rgb(167, 160, 163);
-    color: #efefef;
+
+float: left; 
+width: 70px; 
+margin: 0 20px 10px 0;"
 }
 
 
