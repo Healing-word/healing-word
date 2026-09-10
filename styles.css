@@ -1306,6 +1306,12 @@ padding-top: 20px;
 padding-left: 0px;
 }
 
+.body {
+
+ 
+    gap: 0;
+}
+
 .sidebar {
 display: grid;
 grid-template-columns: 1fr;
@@ -1328,6 +1334,12 @@ gap: 10px;
 .sideopinion {
 padding-top: 20px;
 padding-left: 0px;
+}
+
+.body {
+
+ 
+    gap: 0;
 }
 
 .floa {
@@ -1357,6 +1369,12 @@ object-fit: cover;
 .sideopinion {
 padding-top: 20px;
 padding-left: 0;
+}
+
+.body {
+
+ 
+    gap: 0;
 }
 
 .float {
