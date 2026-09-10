@@ -1301,7 +1301,10 @@ display: none;
 display: flex;
 flex-direction: column-reverse;   
 }
-
+.sideopinion {
+padding-top: 20px;
+padding-left: 0px;
+}
 
 .sidebar {
 display: grid;
@@ -1322,7 +1325,10 @@ display: grid;
 grid-template-columns: 1fr;
 gap: 10px;
    }
-
+.sideopinion {
+padding-top: 20px;
+padding-left: 0px;
+}
 
 .floa {
 width: 150px; 
@@ -1347,6 +1353,11 @@ margin-left: 15px;
 aspect-ratio: 7/7;
 object-fit: cover;
   }
+
+.sideopinion {
+padding-top: 20px;
+padding-left: 0;
+}
 
 .float {
 display: grid;
