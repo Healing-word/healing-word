@@ -69,6 +69,7 @@ nav {
     width: 100%;
     padding-bottom: 4px;
     padding-top: 4px;
+   
     }
 
 .menus {
@@ -289,6 +290,16 @@ gap: 30px;
     background-color: rgb(167, 160, 163);
     color: #efefef;
 }
+
+article img {
+
+float: left; 
+width: 100px; 
+height: auto;
+margin: 0 20px 10px 0;
+}
+
+
 
 .exam h1 {
 
@@ -936,11 +947,11 @@ padding-left: 30px;
    .profi img {
 
    width: 100%;
-   max-width: 70px;
-   height: 70px;
+   max-width: 90px;
+   height: 120px;
    object-fit: cover;
    vertical-align: top;
-   border-radius: 5px;
+   border-radius: 1px;
    }
 
    .contact-us {
@@ -1291,7 +1302,16 @@ display: none;
 display: flex;
 flex-direction: column-reverse;   
 }
+.sideopinion {
+padding-top: 20px;
+padding-left: 0px;
+}
 
+.body {
+
+ 
+    gap: 0;
+}
 
 .sidebar {
 display: grid;
@@ -1312,7 +1332,16 @@ display: grid;
 grid-template-columns: 1fr;
 gap: 10px;
    }
+.sideopinion {
+padding-top: 20px;
+padding-left: 0px;
+}
 
+.body {
+
+ 
+    gap: 0;
+}
 
 .floa {
 width: 150px; 
@@ -1337,6 +1366,17 @@ margin-left: 15px;
 aspect-ratio: 7/7;
 object-fit: cover;
   }
+
+.sideopinion {
+padding-top: 20px;
+padding-left: 0;
+}
+
+.body {
+
+ 
+    gap: 0;
+}
 
 .float {
 display: grid;
