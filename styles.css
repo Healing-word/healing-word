@@ -1258,9 +1258,7 @@ grid-template-columns: 1fr 1fr;
 gap: 10px; 
 }
 
-.menubars {
-display: block;
-}
+
 
 
 .contact-us {
@@ -1366,6 +1364,11 @@ margin-left: 15px;
 aspect-ratio: 7/7;
 object-fit: cover;
   }
+
+.menubars {
+display: block;
+}
+
 
 .sideopinion {
 padding-top: 20px;
