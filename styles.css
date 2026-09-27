@@ -1247,10 +1247,6 @@ max-width: 600px;
 @media only screen and (max-width: 675px) {
 
 
-.menu {
-width: 100%;
-align-items: center;
-}
 
   .float {
 display: grid;
@@ -1353,6 +1349,11 @@ object-fit: cover;
 }
 
 @media only screen and (max-width: 550px) {
+
+.menu {
+width: 100%;
+align-items: center;
+}
 
 
 .floa {
