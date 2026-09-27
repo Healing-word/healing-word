@@ -1348,12 +1348,7 @@ object-fit: cover;
     
 }
 
-@media only screen and (max-width: 550px) {
-
-.menu {
-width: 100%;
-align-items: center;
-}
+@media only screen and (max-width: 550px {
 
 
 .floa {
@@ -1388,5 +1383,30 @@ grid-template-columns: 1fr;
 gap: 13px;
     
    }
+
+}
+
+
+@media only screen and (max-width: 550px) {
+
+.menu {
+width: 100%;
+align-items: center;
+}
+
+
+.floa {
+width: 150px; 
+float: left; 
+margin-right: 15px; 
+margin-bottom: 25px;  
+margin-left: 15px;          
+aspect-ratio: 7/7;
+object-fit: cover;
+  }
+
+.menubars {
+display: block;
+}
 
 }
