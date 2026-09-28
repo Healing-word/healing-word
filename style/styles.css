@@ -130,6 +130,11 @@ display: none;
     
 }
 
+.menubars h1 {
+    color: white;
+    
+
+
 .menubars div {
 
     color: #494949;
@@ -189,7 +194,7 @@ display: none;
     column-gap: 5px;
     row-gap: 5px;
     border-right: 1px solid grey;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 
 .politis {
