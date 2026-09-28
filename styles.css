@@ -181,13 +181,14 @@ display: none;
     display: grid;
     grid-template-columns: 3fr 1fr;
     gap: 20px;
+    border-left: 2px solid rgb(243, 238, 238;
 }
 .politi {
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
     row-gap: 5px;
-   border-right: 2px solid rgb(243, 238, 238;
+
 }
 
 .politis {
