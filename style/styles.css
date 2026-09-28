@@ -1284,7 +1284,7 @@ display: grid;
 grid-template-columns: 1fr;
 column-gap: 20px;
 row-gap: 20px;  
-border-right: 1px solid white;
+
 }
 
 
