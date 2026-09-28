@@ -1249,6 +1249,11 @@ max-width: 600px;
 @media only screen and (max-width: 675px) {
 
 
+.menu {
+width: 100%;
+align-items: center;
+}
+
 
   .float {
 display: grid;
@@ -1390,12 +1395,7 @@ gap: 13px;
 
 
 @media only screen and (max-width: 550px) {
-
-.menu {
-width: 100%;
-align-items: center;
-}
-
+
 
 .floa {
 width: 150px; 
