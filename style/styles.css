@@ -126,7 +126,7 @@ display: none;
 .menubars {
     display: flex;
     margin-right: 5px;
-    color: rgb(43, 42, 42);
+    color: white;
     
 }
 
@@ -149,7 +149,7 @@ display: none;
 
     color: #494949;
     font-size: 20px;
-    background-color: white;
+    background-color: grey;
     border-radius: 50%;
     border-color: gref;
     height: 50px;
