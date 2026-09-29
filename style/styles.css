@@ -187,8 +187,8 @@ display: none;
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
     row-gap: 5px;
-    
-    padding-right: 40px;
+    border: 1px solid grey;
+    padding-right: 60px;
    
 }
 
