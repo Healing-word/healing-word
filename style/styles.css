@@ -187,8 +187,8 @@ display: none;
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
     row-gap: 5px;
-    border: 2px solid background-color: rgb(243, 238, 238);
-    padding-right: 60px;
+    border-right: 2px solid background-color: rgb(243, 238, 238);
+    padding-right: 40px;
    
 }
 
@@ -562,7 +562,7 @@ padding-bottom: 20px;
 
 .sideopinion {
 padding-top: 20px;
-margin-left: 20px;
+padding-left: ;
 }
 
 .social-media li a {
