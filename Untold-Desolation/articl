@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Death Man in his Grave | Kuany Dut | Fiction</title>
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet">
+    <link rel="stylesheet" href="style/styles.css">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1VG2H67WGD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1VG2H67WGD');
+</script>
+    
+</head>
+<body>
+  
+
+  <section class="header">
+
+         <nav>
+
+<div style="font-family: 'spectral', serif; color: black; font-size: 20px;" ><a href="index.html"><h2 >Untold</h2>
+
+<h5 style="font-size: 15px; padding-top: 0; margin-top: 0; font-size: 18px; ">Desolation</h5></a>
+</div>
+
+    
+      <ul class="menus">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">About us</a></li>
+          <li><a href="issue.html">Issue</a></li>
+          <li><a href="submit.html">Submit</a></li>
+
+         
+<ul style="text-align: center;" class="social-media">
+      
+      <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100083376730661"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+      
+    </ul> 
+
+        </ul>
+
+      <div class="menubars">
+        <input type="checkbox" id="bar" class="menu-par">
+       <label for="bar" class="bars">
+         <div >
+           <h1>≡</h1>
+         </div>
+        </label>
+
+        
+
+       <ul class="menu">
+         <input type="checkbox" id="bar" class="menu-par">
+         <label for="bar" class="bars">
+          <img src="pictures/menubar.png">
+          <h1>←</h1>
+         </label>
+         
+          <li><a href="index.html"><h3>Home</h3><hr></a></li>
+          <li><a href="#"><h3>About us</h3><hr></a></li>
+          <li><a href="issue.html"><h3>Issue</h3><hr></a></li>
+          <li><a href="submit.html"><h3>Submit</h3><hr></a></li>
+          
+        
+
+         
+        
+        </ul>
+    
+
+      </div>
+    
+
+     </nav>
+
+  </section>
+
+
+ 
+
+<section class="body">
+
+
+  <div class="sample">
+  
+
+    <p style="padding-bottom: 0; margin-bottom: 10px; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> POETRY</span> </p>
+     
+    <h1 style="margin-bottom: 10px; font-family: 'spectral', serif;">Home Die at Noon When Everyone was Asleep | Michael kuany Dut</h1>
+
+<p> <span style="color: grey; margin-bottom: 10px;">by Michael Kuany Dut</span> </p>
+
+<p> <span style="color: grey; margin-bottom: 10px;">5 April 2026</span> </p>
+   
+<br>
+
+<br>
+<ul class="social-media">
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://x.com/i/status/2069793080409014315"><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/100007827008419/posts/4470826796521510/?app=fbl"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+      
+    </ul>
+
+<br>
+
+    <img src="images/homeh.jpg">
+    
+   
+    <br> 
+    <br>
+
+<div style="font-size: 18px; font-family: 'spectral', serif; line-height:  1.7; color: black; margin-bottom: 20px;">
+
+<p>I don’t know why I'm always complaining about life yet life itself is useless.</p>
+
+
+<p>You really longing die? asked one of my friend one day when I was holding a Long and hard rope. l keep quiet.</p>
+
+
+<p>Please, don’t die for my sake he added, taking the rope from my hands. He let me sit down on the grass, and sat besides me.</p>
+
+
+<p>I don’t know whyYou really longing 
+to die my darling brother. he said.  But for my sake, please, don’t die.</p>
+
+<p>He huge me and hold me tight on his chest. I wish he would never let me go again.</p>
+
+
+</div>
+
+<div>
+
+<br>
+ 
+
+
+<p style="text-align: center;"> ******</p>
+
+
+<div> 
+<!--
+    <h2 style="font-family: 'spectral', serif; color: #494949;">   About the Author:</h2> -->
+ </div>
+
+
+<br>
+
+<h3>About the Author</h3> 
+
+<br>
+<div class="prof-infor">
+
+
+<div class="profi">
+<!-- <img src="images/koko.jpg" alt=""> -->
+</div>
+
+
+<div class="inform">
+
+  <h3></h3>
+  <p style="font-size: 16px; font-family: "Source Serif 4", serif; line-height:  1.7; font-style: italic;"><strong>Michael Kuany Dut Kou</strong> is a poet, fiction and non-fiction writer in south sudan with much experience in writing. Beside writing, he graduated with bachelor degree in Economic at Catholic university of East Africa. He is now pursueing master in business admnistration at Juba university. </p>
+
+
+</div>
+
+
+</div>
+
+ </div>
+
+ </div>
+
+
+   </section>
+
+
+
+
+ 
+<section class="body">
+    
+  
+
+   <div class="sideopinion">
+
+   <div> 
+    <h3 style="font-family: 'spectral', serif; color: #494949;"> Related Posts </h3> 
+ </div>
+    
+<br>
+<br>
+
+<p><a href="#">Coming home to get risk| Michael Kuany Dut | Poetry </a></p>
+
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+<p><a href="#">Death days are coming when no one would escape | Peter Leek Dut| Fiction </a></p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+    <p><a href="#">Dark dawn | Mark Lueth | Essay </a></p>
+    
+ <br>
+
+
+<!--
+<ul style="text-align: center;" class="social-media">
+      
+      <li><div style="width: ;"><h3>Follow Us:</h3></div></li>
+      <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100083376730661"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+      
+    </ul>
+-->
+   </section>
+
+
+
+
+
+
+    
+   
+ 
+ 
+ 
+
+  <section class="footer-info">
+      
+   <div>
+<hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+<br>
+<h4>Follow Untold Desolation:</h4>
+<ul style="text-align: center;" class="social-media">
+      
+      
+      <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100083376730661"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+      
+    </ul>
+      <ul> 
+     
+    
+  <li><a href="index.html"><p>Home</p></a></li>
+          <li><a href="pages/about.html"><p>About us</p></a></li>
+          <li><a href="pages/contact.html"><p>Contact Us</p></a></li>
+          <li><a href="pages/submit.html"><p>Submit</p></a></li>
+
+   </ul>
+
+     
+    <ul>
+  
+   </ul>
+  
+   </div>
+     
+
+  </section>
+
+<footer>
+
+  <p style="text-decoration: rgb(116, 114, 113); color: grey; font-weight: 700;">© 2026 Untold Desolation.</p>
+
+
+  
+
+
+</footer>
+
+<a href="#" class="back-north">
+
+    <span id="materialIcons">↑</span>
+  </a>
+
+<script src="script.js"></script>
+
+</body>
+</html>
