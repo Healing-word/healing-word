@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+
+    <title>Untold Desolation - The Collection of Untold Stories</title>
+
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="style/styles.css">
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1VG2H67WGD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1VG2H67WGD');
+</script>
+    
+</head>
+<body>
+  
+   <section class="header">
+    
+     <nav>
+
+<div style="font-family: 'spectral', serif; color: black; text-align: ; font-size: 20px;" ><a href="index.html"><h2 >Untold</h2>
+
+<h5 style="font-size: 18px; padding-top: 0; margin-top: 0; ">Desolation</h5>
+</a>
+</div>
+
+    
+      <ul class="menus">
+
+
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">About us</a></li>
+          <li><a href="issue.html">Issue</a></li>
+          <li><a href="submit.html">Submit</a></li>
+
+       
+
+<ul style="text-align: center;" class="social-media">
+      
+      <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100083376730661"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+      
+    </ul>
+   
+
+        </ul>
+
+
+      <div class="menubars">
+        <input type="checkbox" id="bar" class="menu-par">
+       <label for="bar" class="bars">
+         <div >
+           <h1>≡</h1>
+         </div>
+        </label>
+
+        
+
+       <ul class="menu">
+         <input type="checkbox" id="bar" class="menu-par">
+         <label for="bar" class="bars">
+          <img src="pictures/menubar.png">
+          <h1>←</h1>
+         </label>
+         
+          <li><a href="submit.html"><h3>Home</h3><hr></a></li>
+          <li><a href="submit.html"><h3>About us</h3><hr></a></li>
+          <li><a href="submit.html"><h3>Contact us</h3><hr></a></li>
+          <li><a href="submit.html"><h3>Submit</h3><hr></a></li>
+          
+        
+
+         
+        
+        </ul>
+    
+
+      </div>
+    
+     </nav>
+
+  </section>
+
+
+
+<section class="body">
+
+
+<div class="politi">
+
+
+<div class="sample">  
+
+    <a href="grief1.html"><img src="images/homeh.jpg"></a>
+
+
+    <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">November 11, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="grief1.html">Hope Die at Noon | Mark Lueth</a></h2>
+
+  
+    <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700 ; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Mark Lueth</span> </p>
+    
+    
+    
+    </div>
+
+
+    <div class="sample" style="padding-bottom: 0; margin-bottom: 0;">
+   
+
+    <a href="grief2.html"><img src="images/Boob.jpg""></a>
+
+
+    <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 8px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">April 5, 2026</span> </p>
+    
+</div>
+
+    <h2> <a>Hope Die at Noon | Mark Lueth</a></h2>
+
+  
+    
+     <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Mark Lueth</span> </p>
+    
+    
+</div>
+
+     <div class="sample">
+    
+   
+
+    <a><img src="images/houseframe.jpg"></a>
+
+ <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 8px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">April 8, 2026</span> </p>
+    
+</div>
+   
+    <h2> <a> I Have Forgotten my Name| Michael Kuany Dut</a></h2>
+
+  
+    <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700 ; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Michael Kuany Dut</span> </p>
+    
+     
+    </div> 
+    
+  
+<div class="sample">
+    
+    
+   
+ 
+    <a href="#" style="padding-top: 0; margin-top: 0;" ><img src="images/GoodSignt.jpg"></a>
+
+     <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif; padding-top: 5px; ">July 9, 2026</span> </p>
+    
+</div>
+
+    <h2> <a> Dark Dawn | Peter Leek</a></h2>
+
+   
+    
+    <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700 ; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Peter Leek Dut</span> </p>
+    
+    
+ 
+    
+    </div>
+  
+    
+ 
+
+    <div class="sample">
+    
+   
+
+    <a><img src="images/Blues.jpg"></a>
+  
+
+    <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Fiction</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">June 14, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#"> Death Days are Coming When no one Would Escape | Lemi Gabrielle</a></h2>
+
+   
+    
+    <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Lemi Gabrielle</span> </p>
+    
+   
+    </div>
+
+     <div class="sample">
+
+    <a><img src="images/Greye.jpg"></a>
+
+   <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">March 7, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#">Hope Die at Noon | Godfrey Emma</a></h2>
+    
+    
+     <p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700 ; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Godfrey Emma</span> </p>
+    
+    
+    
+    </div>
+
+<div class="sample">
+    
+    
+    <a><img src="images/Blu.jpg"></a>
+
+
+   <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">January 9, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#"> Knock on the Door at midnight | Kuany Dut Kou</a></h2>
+    
+   
+   <p style="padding-bottom: 0; margin-bottom: 0; font-weight: ; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Michael Kuany Dut</span> </p>
+    
+    
+    </div>
+  
+    <div class="sample">
+    
+    <a><img src="images/Frame.jpg"></a>
+
+
+    <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Essay</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">December 3, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#"> I Have Forgotten the Name That my Grandmother Gave me: now They Call me by Nickname | Kuany Dut Kou</a></h2>
+    
+    
+    <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Lemi Gabrielle</span> </p>
+    
+    
+    </div>
+
+
+<div class="sample">
+    
+    
+    <a href="#"><img src="images/Yello.jpg"></a>
+
+   <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">April 3, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#"> Fire From Above  | Peter Leek</a></h2>
+    
+    
+   <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Peter Leek Dut</span> </p>
+    
+    
+    </div>
+
+
+
+<div class="sample">
+    
+    
+    <a href="#"><img src="images/Bob.jpg"></a>
+
+   <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">April 3, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#"> My Reflection on the Broken Mirror | Peter Leek</a></h2>
+    
+    
+   <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700 ; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Peter Leek Dut</span> </p>
+    
+    
+    </div>
+
+  
+<div class="sample">
+    
+    
+    <a href="#"><img src="images/BlueSea.jpg"></a>
+
+   <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">April 3, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#"> Dark Dawn  | Peter Leek</a></h2>
+    
+    
+   <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Peter Leek Dut</span> </p>
+    
+    
+    </div>
+  
+    <div class="sample">
+    
+    <a><img src="images/Artwork.jpg"></a>
+
+    <div style="display: flex;
+    justify-content: space-between;
+    align-items: center; padding-bottom: 5px; padding-top: 5px;">
+<p style="padding-bottom: 0; margin-bottom: 0; font-weight: 700;"> <span style="color: rgb(101, 200, 218);"> Poetry</span> </p>
+    
+<p style="padding-bottom: 0; margin-bottom: 0;"> <span style="color: grey; font-family: 'spectral', serif;">April 9, 2026</span> </p>
+    
+</div>
+
+    <h2> <a href="#">Hope Die at Noon | Peter Leek</a></h2>
+   
+     <p style="padding-bottom: 0; margin-bottom: 0; font-weight:700; padding-top: 5px;"> <span style="color: grey; font-family: 'spectral', serif;">by Peter Leek </span> </p>
+    
+
+<h2 style="color: rgb(101, 200, 218); text-decoration: underline;"> </h2>
+   <br> 
+
+<h2 style="color: rgb(101, 200, 218); text-decoration: underline;"> </h2> 
+    
+
+
+    
+<br>
+
+    </div>
+  
+
+  </div>
+
+  <div class="sidebar" >
+    
+   <div class="sideopinion">
+
+   <div style="display: inline-block;"> 
+    <h2 style="font-family: 'spectral', serif; color: "> Most Read Post
+</h2> 
+<hr style="border: none; height: 2px; background-color: rgb(101, 200, 218);">
+ </div>
+    
+<br>
+<br>
+
+<div style="font-size: 18px; font-family: 'spectral', serif; line-height:  1.7; color: black; margin-bottom: 20px;">
+
+<p>When we are ruled by crooks who claimed to be government| Kuany Dut | Poetry </p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+<p>Coming home to get you from hunger| Kuany Dut | Poetry </p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+    <p>Time to die is waiting at the door| Kuany Dut | Poetry </p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+
+
+<p>Coming home | Kuany Dut | Poetry </p>
+   <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+
+<p>when we are ruled by crooks who claimed to be government| Kuany Dut | Poetry </p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+<p>Coming home to get you from hunger| Kuany Dut | Poetry </p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+    <p>Time to die is waiting at the door| Kuany Dut | Poetry </p>
+    
+   
+ 
+</div>
+ 
+
+   </div>
+
+   
+    
+</div>
+   
+  
+
+ </section>
+
+<!--
+
+<section class="body">
+    
+  
+
+   <div class="sideopinion">
+
+   <div style="display: inline-block;"> 
+    <h2 style="font-family: 'spectral', serif; color: #494949;"> Recommended for you</h2> 
+<hr style="border: none; height: 3px; background-color: grey;">
+
+ </div>
+    
+<br>
+<br>
+<div style="display: inline-block;">
+
+<p>When we are ruled by crooks who claimed to be government| Kuany Dut | Poetry </p>
+
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+</div>
+    <br>
+
+<p><a href="Hope/griefs.html">Death  days are coming when no one would escape from hunger| Kuany Dut | Essay </a></p>
+    
+    <hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+    <br>
+
+    <p>When we are ruled by crooks who claimed to be government| Kuany Dut | Poetry </p>
+
+   
+
+
+ 
+
+
+
+<ul style="text-align: center;" class="social-media">
+      
+      <li><div style="width: ;"><h3>Follow Us:</h3></div></li>
+      <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100083376730661"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+   
+ 
+    </ul>
+
+   </section>
+
+--> 
+
+
+
+
+
+    
+   
+ 
+ 
+ 
+
+  <section class="footer-info">
+    
+   <div>
+
+<div style="display: inline-block;"> 
+<hr style="border: none; height: 2px; background-color: rgb(243, 238, 238);">
+<br>
+    <h4 style="font-family: 'spectral', serif; color: #494949;"> Follow Untold Desolation:</h4> 
+
+
+<ul style="text-align: center; color:black;" class="social-media">
+      
+     
+      <li><a href=""><img src="pictures/icons8-twitter-48.png" alt=""></a></li>
+      <li><a href="https://www.facebook.com/michael.kuanydut"><img src="pictures/faces.PNG" alt=""></a></li>
+      <li><a href="https://www.facebook.com/profile.php?id=100083376730661"><img src="pictures/wasap.PNG" alt=""></a></li>
+      <i class="fa-brands fa-facebook-f"></i>
+   
+ 
+    </ul>
+
+
+ </div>
+
+
+    <ul> 
+     
+  
+          <li><a href="index.html"><p>Home</p></a></li>
+          <li><a href="pages/about.html"><p>About us</p></a></li>
+          <li><a href="pages/contact.html"><p>Contact Us</p></a></li>
+          <li><a href="pages/submit.html"><p>Submit</p></a></li>
+
+    
+
+   </ul>
+
+  
+   </div>
+     
+
+  </section>
+
+<footer>
+
+  <p style="text-decoration: rgb(116, 114, 113); color: grey; font-weight: 700;">© 2026 Untold Desolation.</p>
+
+
+  
+
+
+</footer>
+
+<a href="#" class="back-north">
+
+    <span id="materialIcons">↑</span>
+  </a>
+
+<script src="script.js"></script>
+
+</body>
+</html>
