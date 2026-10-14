@@ -1101,7 +1101,7 @@ align-items: center;
 
     display: flex;
     flex-direction: column;
-    background-color: grey;
+    background-color: rgb(101, 200, 218);
     position: absolute;
     top: 0;
     left: -1000px;
