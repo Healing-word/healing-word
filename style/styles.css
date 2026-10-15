@@ -1096,7 +1096,11 @@ align-items: center;
     
    }
 
-    
+    .body {
+display: grid;
+grid-template-columns: 1fr;
+border-top: 5px solid rgb(243, 238, 238);
+}
 
    .menu {
 
@@ -1169,6 +1173,10 @@ object-fit: cover;
     column-gap: 10px;
     row-gap: 10px;
 
+}
+
+.body {
+border-top: 5px solid rgb(243, 238, 238);
 }
 
 .float {
