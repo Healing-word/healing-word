@@ -56,7 +56,6 @@ p    {
      position: relative;
      right:0;
      top: 0;
-     left: 0;
      }
 
 
@@ -67,7 +66,7 @@ nav {
     background-color: rgb(101, 200, 218);
     padding-right: 5px;
     padding-left: 5px;
-    width: 90%;
+    width: 100%;
     padding-bottom: 7px;
     padding-top: 7px;
     
