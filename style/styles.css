@@ -556,9 +556,11 @@ footer p {
 background-color: white;
 }
 .social-media li a img {
-
-    width: 29px;
+
     box-shadow:none;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
 }
 
 .sumits {
