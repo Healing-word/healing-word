@@ -553,14 +553,14 @@ footer p {
     padding-left: 0;
     justify-content: start;
     align-items: start;
-background-color: ;
+background-color: white;
 }
 .social-media li a img {
 
     box-shadow:none;
     border-radius: 50%;
-    height: 35px;
-    width: 35px;
+    height: 32px;
+    width: 32px;
 }
 
 .sumits {
