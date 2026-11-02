@@ -941,7 +941,7 @@ padding-top: 20px;
 
    .prof-infor {
 
-    padding: 0 15px;
+    padding: 0;
     display: flex;
     flex-wrap: wrap;
     align-items: top;
