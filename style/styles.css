@@ -940,8 +940,7 @@ padding-top: 20px;
 
 
    .prof-infor {
-
-    padding: 0;
+
     display: flex;
     flex-wrap: wrap;
     align-items: top;
@@ -951,6 +950,7 @@ padding-top: 20px;
     max-width:600px;
     background-color:rgb(255, 250, 250);
     padding-top: 15px;
+    padding-left: 0;
     padding-bottom: 15px;
     margin-bottom: 20px;
     margin-top: 15px;
