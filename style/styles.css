@@ -959,6 +959,7 @@ padding-top: 20px;
 
    .inform {
     font-famil: 'Times New Roman', Times, serif;
+    padding-left: 0;
     flex: 1;
    }
 
