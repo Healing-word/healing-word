@@ -951,6 +951,7 @@ padding-top: 20px;
     background-color:rgb(255, 250, 250);
     padding-top: 15px;
     padding-left: 0;
+    padding-right: 0;
     padding-bottom: 15px;
     margin-bottom: 20px;
     margin-top: 15px;
@@ -1114,7 +1115,7 @@ border-top: 1 solid white;
 
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: #494949;
     position: absolute;
     top: 0;
     left: -1000px;
