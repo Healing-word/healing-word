@@ -1111,7 +1111,7 @@ border-top: 1 solid white;
 
     display: flex;
     flex-direction: column;
-    background-color: #494949;
+    background-color: black;
     position: absolute;
     top: 0;
     left: -1000px;
