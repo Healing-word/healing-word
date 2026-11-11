@@ -1081,6 +1081,13 @@ align-items: center;
     grid-template-columns: 1fr 1fr;
     
    }
+.politi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 15px;
+    
+}
 
 .float {
 
@@ -1105,6 +1112,12 @@ align-items: center;
 display: grid;
 grid-template-columns: 1fr;
 border-top: 1 solid white;
+}
+
+section {
+   width: 80%; 
+   margin: auto;
+  
 }
 
    .menu {
