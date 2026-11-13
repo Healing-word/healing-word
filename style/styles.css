@@ -1058,7 +1058,9 @@ align-items: center;
    .mu {
     flex-basis: 45%;
    }
-
+#social{
+        display: none;
+    }
    
    .grids {
 
