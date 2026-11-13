@@ -1057,10 +1057,7 @@ align-items: center;
     }
    .mu {
     flex-basis: 45%;
-   }
-#social{
-        display: none;
-    }
+   }
    
    .grids {
 
@@ -1257,6 +1254,10 @@ section {
 .about {
     flex-direction: column-reverse;
 }
+
+#social{
+        display: none;
+    }
 
 .select ul {
 max-width: 600px;
