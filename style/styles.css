@@ -1073,10 +1073,6 @@ align-items: center;
     display: none;
    }
 
-#social{
-        display: none;
-    }
-
    .menubars {
 
     display: flex;
