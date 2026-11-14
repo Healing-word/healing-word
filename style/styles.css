@@ -420,9 +420,6 @@ color: white;
     
 }
 
-#social{
-        display: block;
-    }
 
 .exam {
     text-align: center;
@@ -560,23 +557,6 @@ footer p {
 background-color: white;
 }
 .social-media li a img {
-
-    box-shadow:none;
-    border-radius: 50%;
-    height: 32px;
-    width: 32px;
-}
-
-.soc {
-
-    display: flex;
-    gap: 10px;
-    padding-left: 0;
-    justify-content: start;
-    align-items: start;
-background-color: white;
-}
-.soc li a img {
 
     box-shadow:none;
     border-radius: 50%;
