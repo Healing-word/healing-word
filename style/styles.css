@@ -1083,7 +1083,7 @@ align-items: center;
 
 .mobile-only {
 
-    display: block;
+    display: flex;
    }
 
    .politic {
@@ -1252,7 +1252,7 @@ footer {
 
  .mobile-only {
 
-    display: block;
+    display: flex;
    }
 
 .sample hr {
