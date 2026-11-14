@@ -596,6 +596,11 @@ padding-top: 20px;
     display: none;
    }
 
+.mobile-only {
+
+    display: none;
+   }
+
    .sample hr {
 
     display: none;
@@ -1076,6 +1081,11 @@ align-items: center;
     display: flex;
    }
 
+.mobile-only {
+
+    display: block;
+   }
+
    .politic {
 
     display: grid;
@@ -1218,9 +1228,7 @@ margin-bottom: 25px;             aspect-ratio: 7/7;
 object-fit: cover;
   }
 
-#social{
-        display: none;
-    }
+
 
 .grids {
 
@@ -1242,7 +1250,10 @@ footer {
 }
 
 
- 
+ .mobile-only {
+
+    display: block;
+   }
 
 .sample hr {
 
