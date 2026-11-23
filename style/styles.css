@@ -1138,7 +1138,7 @@ section {
 
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: #468BC6;
     position: absolute;
     top: 0;
     left: -1000px;
