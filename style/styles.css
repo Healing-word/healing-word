@@ -73,8 +73,8 @@ nav {
     margin-bottom: 0;
     margin-bottom: 20px;
     padding-top: 10px;
-    <!--box-shadow: 0 2px 6px rgba(0, 0, 0, 0.07);-->
-    border-bottom: 10px solid grey;
+    box-shadow: 10px 10px 0px #F8F8F8;
+    
     }
 
 .menus {
