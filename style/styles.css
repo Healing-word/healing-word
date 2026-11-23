@@ -137,9 +137,9 @@ display: none;
 
 .menubars div {
 
-    color: #494949;
+    color: white;
     font-size: 22px;
-    background-color: white;
+    background-color: #263039;
     border-radius: 50%;
     height: 40px;
     width: 40px;
